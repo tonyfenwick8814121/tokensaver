@@ -1,27 +1,23 @@
-# FAQ
+# 常见问题
 
-## Is TokenSaver a cloud service?
-
-No. TokenSaver runs locally. It contacts ClawNexus services for authorization, update checks, and feedback.
-
-## Does it upload my OpenClaw files?
-
-No. It does not upload your OpenClaw files, memory files, skills, prompts, or user documents.
-
-## Why does it require Node.js?
-
-The current MCP testing build runs on Node.js.
-
-## 常见问题
-
-### TokenSaver 是云服务吗？
+## TokenSaver 是云服务吗？
 
 不是。TokenSaver 在本地运行，只在授权、更新检查和问题反馈时访问 ClawNexus 服务。
 
-### 会上传我的 OpenClaw 文件吗？
+## 会上传我的 OpenClaw 文件吗？
 
 不会。TokenSaver 不上传 OpenClaw 文件、记忆文件、skills、提示词或用户文档。
 
-### 为什么需要 Node.js？
+## 标准版和专家版有什么区别？
 
-当前 MCP 测试版基于 Node.js 运行。
+标准版聚焦一键省 Token、Memory-Wiki 检测、Bootstrap 文档瘦身、上下文膨胀监控和本地备份恢复。
+
+专家版增加能力地图、任务路由、Skill 分类标签、模型策略、调用规则和路由健康度测试。测试期内专家版能力免费开放。
+
+## 为什么需要 Node.js？
+
+当前 MCP 测试版基于 Node.js 运行。后续 Mac App 版本会尽量降低普通用户的安装门槛。
+
+## 如果我想重新测试，应该怎么做？
+
+先在 TokenSaver 中执行恢复，确认 OpenClaw 已恢复到优化前状态；再删除 TokenSaver 本地状态。详细步骤见 [UNINSTALL.md](./UNINSTALL.md)。

@@ -1,25 +1,4 @@
-# Privacy
-
-TokenSaver is designed as a local tool.
-
-It does not upload:
-
-- OpenClaw memory files
-- OpenClaw bootstrap documents
-- Skills source files
-- User prompts
-- User documents
-- Raw MAC address
-
-It may contact ClawNexus services for:
-
-- Testing-period authorization
-- Update checks
-- Feedback submission
-
-Only minimal environment metadata is sent, such as TokenSaver version, OpenClaw version, operating system, CPU architecture, anonymous install id, and optional diagnostic summaries.
-
-## 隐私说明
+# 隐私说明
 
 TokenSaver 是本地工具。
 
@@ -38,4 +17,10 @@ TokenSaver 是本地工具。
 - 更新检查
 - 问题反馈
 
-上传的信息仅限必要环境摘要，例如 TokenSaver 版本、OpenClaw 版本、操作系统、CPU 架构、匿名 install_id 和可选诊断摘要。
+上传的信息限于必要环境摘要，例如 TokenSaver 版本、OpenClaw 版本、操作系统、CPU 架构、匿名 install_id 和可选诊断摘要。
+
+## 本地改动原则
+
+- 执行高风险修改前会先创建本地备份。
+- 恢复操作需要用户确认。
+- Memory Search 修复、embedding 配置修复等操作不会静默执行。
