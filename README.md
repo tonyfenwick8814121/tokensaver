@@ -11,7 +11,7 @@ TokenSaver 会先检查本机 OpenClaw 环境，再通过一键省 Token、能�
 当前测试包：
 
 - ClawNexus-TokenSaver-MCP-0.1.0-testing.zip
-- SHA256：`f31d2e3da8d7431106ba11a130387fa9a8aaef24511059346f26a98aa4cb2042`
+- SHA256：`2a595697b249acdfd00f235e82d1459917b3de6320b6e3451ab50d5b1485c8f1`
 
 ## 当前状态
 
