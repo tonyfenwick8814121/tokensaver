@@ -1,5 +1,11 @@
 # 更新日志
 
+## 0.1.0-testing hotfix
+
+- 补回 Web Console 的一键省 Token 页面入口。
+- 增加优化预案、开启一键省 Token、备份列表和一键恢复入口。
+- 修复总览页体检与 MCP Manifest 结果不明显的问题，输出区域会自动滚动到最新结果。
+
 ## 0.1.0-testing
 
 - 发布 TokenSaver MCP 测试期版本。
