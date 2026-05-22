@@ -1,1 +1,1 @@
-e28ed45a09eb77e3fe88c72ca9b0c1872f1afd0109c525c76933802eafa11885  ClawNexus-TokenSaver-MCP-0.1.0-testing.zip
+2a595697b249acdfd00f235e82d1459917b3de6320b6e3451ab50d5b1485c8f1  ClawNexus-TokenSaver-MCP-0.1.0-testing.zip
