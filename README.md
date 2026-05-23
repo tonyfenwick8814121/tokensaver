@@ -11,7 +11,7 @@ TokenSaver 会先检查本机 OpenClaw 环境，再通过一键省 Token、能�
 当前测试包：
 
 - ClawNexus-TokenSaver-MCP-0.1.0-testing.zip
-- SHA256：`2a595697b249acdfd00f235e82d1459917b3de6320b6e3451ab50d5b1485c8f1`
+- SHA256：`f5ea65fdff7258e72fa0d50b9ba10bfb223a4b3e5730fa4b06256f29c472f910`
 
 ## 当前状态
 
@@ -64,14 +64,14 @@ TokenSaver 默认在本地运行，不上传你的 OpenClaw 文件、记忆文�
 
 - macOS，支持 Apple Silicon 和 Intel Mac
 - Node.js 22.19 或更高版本
-- 建议 OpenClaw 版本：2026.5.12 到 2026.5.18
+- 建议 OpenClaw 版本：2026.5.12 到 2026.5.20
 
 ## 快速开始
 
 1. 从 [Releases](https://github.com/tonyfenwick8814121/tokensaver/releases) 下载 zip 包。
 2. 解压。
 3. 双击 `启动 TokenSaver.command` 打开本地控制台。
-4. 如果需要作为 MCP Server 使用，运行 `启动 MCP Server.command`。
+4. 如果需要作为 MCP Server 使用，运行 `启动 MCP Server.command`。首次运行会自动把 TokenSaver 注册到 OpenClaw 的 MCP 配置中，后续启动会先检查配置是否仍然正常。
 
 如果 macOS 阻止打开，请右键文件并选择“打开”。
 
