@@ -10,16 +10,23 @@ TokenSaver 会先检查本机 OpenClaw 环境，再通过一键省 Token、能�
 
 当前测试包：
 
-- ClawNexus-TokenSaver-MCP-2026.5.20-testing.zip
-- SHA256：`5c3947f739b56c8f9d275c734abc094335036d5f134f84d891ed7d994616d2ac`
+- ClawNexus-TokenSaver-MCP-2026.5.22-testing.zip
+- SHA256：`0da18d27234b8073afd9025c03a7fbcf9c4bdb3c8f220f3314e2b3853c465c60`
 
 ## 当前状态
 
-- 版本：2026.5.20-testing
+- 版本：2026.5.22-testing
 - 阶段：测试期
 - 授权：测试期内默认开放专家版能力
 - 发行包校验：Release 页面提供 SHA256
 - 数据边界：本地运行，不上传 OpenClaw 文件、skills 或用户文档
+
+## 版本更新
+
+| TokenSaver 版本 | 兼容 OpenClaw 版本 |
+| --- | --- |
+| 2026.5.22-testing | 2026.5.12 - 2026.5.22 |
+| 2026.5.20-testing | 2026.5.12 - 2026.5.20 |
 
 ## 适合谁
 
@@ -64,7 +71,7 @@ TokenSaver 默认在本地运行，不上传你的 OpenClaw 文件、记忆文�
 
 - macOS，支持 Apple Silicon 和 Intel Mac
 - Node.js 22.19 或更高版本
-- 建议 OpenClaw 版本：2026.5.12 到 2026.5.20
+- 建议 OpenClaw 版本：2026.5.12 到 2026.5.22
 
 ## 快速开始
 
