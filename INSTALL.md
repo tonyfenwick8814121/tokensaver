@@ -3,7 +3,7 @@
 ## macOS
 
 1. 安装 Node.js 22.19 或更高版本。
-2. 从 [Releases](https://github.com/tonyfenwick8814121/tokensaver/releases) 下载 `ClawNexus-TokenSaver-MCP-2026.5.28-testing.1.zip`。
+2. 从 [Releases](https://github.com/tonyfenwick8814121/tokensaver/releases) 下载 `ClawNexus-TokenSaver-MCP-2026.6.1-testing.1.zip`。
 3. 解压。
 4. 双击 `启动 TokenSaver.command`。
 
@@ -22,5 +22,5 @@ node "TokenSaverRuntime/dist/index.js" mcp
 ## 版本建议
 
 - Node.js：22.19+
-- OpenClaw：建议 2026.5.12 到 2026.5.28
+- OpenClaw：建议 2026.5.12 到 2026.6.1
 - macOS：Apple Silicon 和 Intel Mac 均可测试
