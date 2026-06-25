@@ -10,12 +10,12 @@ TokenSaver 会先检查本机 OpenClaw 环境，再通过一键省 Token、能�
 
 当前测试包：
 
-- ClawNexus-TokenSaver-MCP-2026.6.8-testing.1.zip
-- SHA256：`0f860ff756e11d33e1bf673d0c981e78b536eeca082a19347c61f1247df0dc53`
+- ClawNexus-TokenSaver-MCP-2026.6.10-testing.1.zip
+- SHA256：`d3680c10c5d57ec488bd948ff7feb5a8e837aec24204d2ac7c09e317a739a3cb`
 
 ## 当前状态
 
-- 版本：2026.6.8-testing.1
+- 版本：2026.6.10-testing.1
 - 阶段：测试期
 - 授权：测试期内默认开放专家版能力
 - 发行包校验：Release 页面提供 SHA256
@@ -26,7 +26,7 @@ TokenSaver 会先检查本机 OpenClaw 环境，再通过一键省 Token、能�
 
 | TokenSaver 版本 | 兼容 OpenClaw 版本 |
 | --- | --- |
-| 2026.6.8-testing.1 | 2026.5.12 - 2026.6.8；更新 OpenClaw 兼容范围至 2026.6.8 |
+| 2026.6.10-testing.1 | 2026.5.12 - 2026.6.10；更新 OpenClaw 兼容范围至 2026.6.10 |
 | 2026.6.5-testing.1 | 2026.5.12 - 2026.6.5；更新 OpenClaw 兼容范围至 2026.6.5 |
 | 2026.6.1-testing.1 | 2026.5.12 - 2026.6.1；更新 OpenClaw 兼容范围至 2026.6.1 |
 | 2026.5.28-testing.1 | 2026.5.12 - 2026.5.28；更新 OpenClaw 兼容范围至 2026.5.28 |
@@ -78,7 +78,7 @@ TokenSaver 默认在本地运行，不上传你的 OpenClaw 文件、记忆文�
 
 - macOS，支持 Apple Silicon 和 Intel Mac
 - Node.js 22.19 或更高版本
-- 建议 OpenClaw 版本：2026.5.12 到 2026.6.8
+- 建议 OpenClaw 版本：2026.5.12 到 2026.6.10
 
 ## 快速开始
 
